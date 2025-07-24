@@ -1,79 +1,74 @@
 # 👩‍💻 Vaidehi Kokare
 
-🎓 B.Tech Artificial Intelligence & Data Science  
-📍 Shivajinagar, Pune – 411005, Maharashtra, India  
-📧 kokarevaidehi2@gmail.com | 📱 +91 95031 01433  
-🔗 [LinkedIn](https://linkedin.com/in/vaidehi-kokare) | [GitHub](https://github.com/vaidehikokare)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey!+I'm+Vaidehi+Kokare+%F0%9F%91%8B;AI+%26+Data+Science+Student;Tech+Enthusiast+%F0%9F%92%BB;Python+%7C+Django+%7C+ML+%7C+Data+Viz" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Hi! I’m **Vaidehi Kokare**, a passionate AI & Data Science student with a strong foundation in Python programming, data analysis, and full-stack development. I love building real-world projects that make a difference and aim to blend technology with societal needs.
+🎓 I'm a BTech student specializing in **Artificial Intelligence & Data Science**  
+💡 I enjoy solving real-world problems using Machine Learning, Python, and Full-Stack tech  
+🔍 Curious by nature, always learning something new  
+🤝 Open for collaborations, internships, and innovative ideas  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-- **Languages:** Python, C, C++, HTML, CSS, SQL  
-- **Web Development:** Django, React.js, Bootstrap, Streamlit  
-- **Databases:** MySQL, MongoDB  
-- **Data Analysis & Visualization:** Power BI, Tableau, Excel  
-- **Machine Learning:** scikit-learn, TensorFlow, MLOps, Feature Engineering, Seaborn  
-- **Deep Learning:** CNN, VGG16, NLP, OpenCV  
+| Languages | Web | Database | ML/DL | Visualization | Tools |
+|----------|------|-----------|--------|----------------|--------|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | VS Code, Git, Excel, Streamlit |
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🌾 KrishiSathi – AI-Powered Agriculture Platform  
-An AI-based web app that helps farmers predict crop diseases, access weather forecasts, and buy/sell products.
+An intelligent platform that empowers farmers using AI.
 
-- **Tech Stack:** Django, VGG16, MySQL, Bootstrap, BeautifulSoup  
-- **Features:**
-  - Crop disease prediction using VGG16 & leaf images  
-  - Agri-news & live weather updates via web scraping  
-  - Digital marketplace for farmers  
-- **🔗 GitHub:** [KrishiSathi Repo](https://github.com/vaidehikokare/KrishiSathi)  
-- **🎥 Demo:** [LinkedIn Project Demo](https://www.linkedin.com/posts/vaidehi-kokare_krishisathi-ai-powered-agriculture-platform-activity-1234567890123456789/) *(Update link)*
+🛠 **Tech Used:** Django, VGG16, MySQL, BeautifulSoup, Bootstrap  
+🎯 **Features:**
+- Crop disease prediction via leaf image classification  
+- Agri-news and live weather using web scraping  
+- Marketplace for agri-products and produce exchange  
+🔗 **Repo:** [KrishiSathi GitHub](https://github.com/vaidehikokare/KrishiSathi)  
+📹 **Demo:** [Watch on LinkedIn](https://www.linkedin.com/posts/vaidehi-kokare_krishisathi-ai-powered-agriculture-platform-activity-1234567890123456789/) *(Replace with your actual post)*
 
 ---
 
 ### 🔍 Violence Detection System  
-Real-time detection of violent activity using video frames and machine learning.
+Detects violent scenes in video using ML and image processing.
 
-- **Tech Stack:** Streamlit, OpenCV, Machine Learning  
-- **GitHub:** [Violence Detection](https://github.com/vaidehikokare/Violence-Detection)
+🛠 **Tech Used:** Streamlit, OpenCV, Scikit-learn  
+📂 **Repo:** [Violence Detection System](https://github.com/vaidehikokare/Violence-Detection)
 
 ---
 
 ### 🎬 Movie Recommendation System  
-A content-based recommender system that suggests movies using cosine similarity.
+Suggests movies using content-based filtering.
 
-- **Tech Stack:** Python, Pandas, Scikit-learn  
-- **GitHub:** [Movie Recommender](https://github.com/vaidehikokare/Movie-Recommendation-System)
-
----
-
-## 📚 Certifications
-
-- Artificial Intelligence: Search Methods – NPTEL  
-- Database Programming With SQL – Oracle Academy  
-- Joy of Computing Using Python – NPTEL  
-- Data Visualization – Tata Forage  
-- Career Essentials in Generative AI – LinkedIn Learning  
+🛠 **Tech Used:** Python, Pandas, Scikit-learn  
+📂 **Repo:** [Movie Recommendation System](https://github.com/vaidehikokare/Movie-Recommendation-System)
 
 ---
 
-## 💼 Internships
+## 📈 GitHub Stats
 
-- **Artificial Neural Networks Intern** – *Coding Junior (Remote)*, May 2025 – Present  
-- **Subject Matter Expert** – *LearnAsYouGo Pvt. Ltd.*, Jul 2023 – Nov 2023  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidehikokare&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehikokare&theme=radical" width="45%" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-Feel free to reach out for collaboration, internship opportunities, or to simply talk tech!  
-📩 kokarevaidehi2@gmail.com
+- 📧 Email: [kokarevaidehi2@gmail.com](mailto:kokarevaidehi2@gmail.com)  
+- 💼 LinkedIn: [Vaidehi Kokare](https://www.linkedin.com/in/vaidehikokare/)  
+- 💻 Portfolio: *Coming Soon*
+
+---
+
 
