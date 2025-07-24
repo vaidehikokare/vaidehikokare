@@ -34,7 +34,7 @@ An intelligent platform that empowers farmers using AI.
 - Agri-news and live weather using web scraping  
 - Marketplace for agri-products and produce exchange  
 🔗 **Repo:** [KrishiSathi GitHub](https://github.com/vaidehikokare/KrishiSathi)  
-📹 **Demo:** [Watch on LinkedIn](https://www.linkedin.com/posts/vaidehi-kokare_krishisathi-ai-powered-agriculture-platform-activity-1234567890123456789/) 
+📹 **Demo:** [Watch on LinkedIn](https://www.linkedin.com/posts/vaidehi-kokare-9012aa273_krishisathi-aiinagriculture-django-activity-7340650091248037888-I-2e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELI-pEBeSyLhk61IR1r3LkwAw_SLypR2Mo) 
 
 ---
 
