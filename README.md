@@ -54,15 +54,6 @@ Suggests movies using content-based filtering.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidehikokare&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehikokare&theme=radical" width="45%" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 - 📧 Email: [kokarevaidehi2@gmail.com](mailto:kokarevaidehi2@gmail.com)  
